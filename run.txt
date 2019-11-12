@@ -1,0 +1,7 @@
+locally run this site
+1)navigate to repo
+2)run `bundle exec jekyll serve`
+3) got to `http://localhost:4000`
+
+Useful resources
+https://www.quora.com/Can-GitHub-pages-support-multiple-pages
